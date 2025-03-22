@@ -53,7 +53,7 @@ expr: number                { $$ = $1; }
 ```
 ---
 	
-### Use of ChatGPT
+## Use of ChatGPT
 
 I used ChatGPT extensively for this assignment. Mostly for debugging. I really don't want to spend hours trying to figure out every little bug, especially since I am prone to rather stupid mistakes. So if I can't figure it out quickly, I give ChatGPT the code and the input and error and the terminal and I have it identify the issue. This is saves me much frustration and time.
 
